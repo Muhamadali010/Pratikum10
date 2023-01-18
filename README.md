@@ -48,10 +48,11 @@ print("====================================================")
 
 ### 2. Latihan2
 ```py
-umur = 24
-txt = "\nHello, nama saya John, dan umur saya adalah {0} tahun\n"
-```
+umur = 20
+txt = "\nHello, nama saya Ali, dan umur saya adalah {0} tahun\n"
+
 print(txt.format(umur))
+```
 ### Source Code
 ![img2](SS/SS3.PNG)
 ![img2](SS/SS4.PNG)
