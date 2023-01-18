@@ -11,12 +11,12 @@ Kelas   :   TI.22.B2</br>
 - Python memperlakukan tanda kutip tunggal sama dengan tanda kutip ganda.
 - Membuat string semudah memberi nilai pada sebuah variabel.
 ### 1. Latihan 
-![img1](SS/SS1.PNG)
+![img1](SS/SS1.png)
 ### 2. Latihan
-![img2](image/22.png)
+![img2](SS/SS2.PNG)
 ### Source Code
-![img3](image/1.png)
-![img4](image/2.png)
+![img2](SS/SS3.PNG)
+![img2](SS/SS4.PNG)
 ### A. Penjelasan Latihan 1
 1.  Untuk menghitung karakter pada string yaitu menggunakan Fungsi `len()`.</br>
 Contoh:
@@ -43,7 +43,7 @@ Contoh:
 ```
 ### C. Hasil Output
 - Latihan 1</br>
-![img5](image/3.png)
+![img2](SS/SS5.PNG)
 - Latihan 2</br>
-![img6](image/4.png)
+![img2](SS/SS6.PNG)
 # *SEKIAN, TERIMA KASIH :)*
