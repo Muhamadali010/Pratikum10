@@ -10,10 +10,48 @@ Kelas   :   TI.22.B2</br>
 - Untuk membuatnya hanya dengan melampirkan karakter dalam tanda kutip.
 - Python memperlakukan tanda kutip tunggal sama dengan tanda kutip ganda.
 - Membuat string semudah memberi nilai pada sebuah variabel.
-### 1. Latihan 
-![img1](SS/SS1.png)
-### 2. Latihan
-![img2](SS/SS2.PNG)
+### 1. Latihan1
+
+```py
+txt = 'Hello World'
+print()
+
+# Hitung jumlah karakternya
+print("====================================================")
+print("| Jumlah karakter                   : ",len(txt),"\t\t   |")
+print("====================================================")
+
+# Ambil karakter terakhir
+print("| Karakter terakhir                 : ",txt[-1],"\t\t   |")
+print("====================================================")
+
+# Ambil karakter index ke-2 sampai index ke-4 (llo)
+print("| Karakter indek ke-2 sampai ke-4   : ",txt[2:5],"\t\t   |")
+print("====================================================")
+
+# Hilangkan spasi pada text tersebut (HelloWord)
+print("| Menghilangkan spasi               : ",txt.replace(" ","")," |")
+print("====================================================")
+
+# Ubah text menjadi huruf besar
+print("| Mengubah text menjadi huruf besar : ",txt.upper(),"|")
+print("====================================================")
+
+# Ubah text menjadi huruf kecil
+print("| Mengubah text menjadi huruf kecil : ",txt.lower(),"|")
+print("====================================================")
+
+# Ganti karakter H dengan karakter J
+print("| Mengganti karakter H dengan J     : ",txt.replace("H","J"),"|")
+print("====================================================")
+```
+
+### 2. Latihan2
+```py
+umur = 24
+txt = "\nHello, nama saya John, dan umur saya adalah {0} tahun\n"
+```
+print(txt.format(umur))
 ### Source Code
 ![img2](SS/SS3.PNG)
 ![img2](SS/SS4.PNG)
