@@ -10,7 +10,13 @@ Kelas   :   TI.22.B2</br>
 - Untuk membuatnya hanya dengan melampirkan karakter dalam tanda kutip.
 - Python memperlakukan tanda kutip tunggal sama dengan tanda kutip ganda.
 - Membuat string semudah memberi nilai pada sebuah variabel.
-### 1. Latihan1
+
+### 1. Latihan 
+![img1](SS/SS1.png)
+### 2. Latihan
+![img2](SS/SS2.PNG)
+
+### Source Code Latihan1
 
 ```py
 txt = 'Hello World'
@@ -46,16 +52,14 @@ print("| Mengganti karakter H dengan J     : ",txt.replace("H","J"),"|")
 print("====================================================")
 ```
 
-### 2. Latihan2
+### Source Code Latihan2
 ```py
 umur = 20
 txt = "\nHello, nama saya Ali, dan umur saya adalah {0} tahun\n"
 
 print(txt.format(umur))
 ```
-### Source Code
-![img2](SS/SS3.PNG)
-![img2](SS/SS4.PNG)
+
 ### A. Penjelasan Latihan 1
 1.  Untuk menghitung karakter pada string yaitu menggunakan Fungsi `len()`.</br>
 Contoh:
